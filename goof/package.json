@@ -35,7 +35,7 @@
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
     "tap": "^15.0.0",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.959.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
